@@ -54,7 +54,7 @@
             </div>
 
             <div class="flex items-center gap-4">
-                <button id="login-btn" class="hidden md:flex items-center gap-2 text-xs bg-white/10 px-3 py-1.5 rounded-full hover:bg-white/20 transition-all text-white">
+                <button id="login-btn" class="hidden md:flex items-center gap-2 text-xs bg-white/10 px-3 py-1.5 rounded-full hover:bg-white/20 transition-all text-white relative z-[100] cursor-pointer hover:scale-105 active:scale-95">
                     <i class="fa-brands fa-google"></i> Entrar
                 </button>
 

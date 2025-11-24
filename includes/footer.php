@@ -74,3 +74,8 @@
             </button>
         </div>
     </nav>
+    <script src="assets/js/ui.js"></script>
+
+    <script type="module" src="assets/js/script.js"></script>
+</body>
+</html>
